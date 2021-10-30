@@ -1,0 +1,3 @@
+IJAF = Al Najaf
+IZOL = Izolirani International
+ISCM = RAF Scampton

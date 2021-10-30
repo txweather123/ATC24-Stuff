@@ -1,0 +1,17 @@
+Flight Plan Template (Posted by pilots in flight-plans)
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Callsign: 
+
+Aircraft: 
+
+Flight Rules: 
+
+Departing: 
+
+Arriving: 
+
+Route (Optional): 
+
+Flight Level: 
+
+Squawk: 

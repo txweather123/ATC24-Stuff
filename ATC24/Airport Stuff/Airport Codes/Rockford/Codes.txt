@@ -1,0 +1,5 @@
+IGAR = Air Base Garry
+IBLT = Boltic Airfield
+IRFD = Rockford International
+IMLR = Mellor International
+ITRC = Training Center/Centre

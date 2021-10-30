@@ -1,0 +1,84 @@
+Welcome to ATC 24: A non-stop PTFS Private Server for semi-professional ATC roleplay, that runs 24/7. See ❗❗why-are-channels-locked❗❗ if you want to join, but can't. To participate in ATC 24, you must follow the following rules.
+(Military bases are the following airports: Airbase Garry and RAF Scampton. Military aircraft are aircraft in the Old military and Modern military aircraft.)
+
+Disclaimer:
+Recording these VCs and uploading them is permitted. Don't join these VCs if you don't want to risk your voice appearing online! (If you plan to record in ATC 24, you still must follow all these rules, including not sharing the server link; if you share the server link in your recording, you will be punished.) 
+​
+General Rules:
+• Users must be 13 years or older to participate in ATC 24 (in accordance with Discord ToS).
+• You must not share the server link to any member without the ATC 24 role, or anyone outside the server.
+• If you are a pilot, you must have a headset or speakers and be able to listen to the ATC VC’s. It is preferred that you also have a microphone, however if you can not use one, you can use Roblox chat (You must still be able to listen to the VC’s).
+• While in the server, you must have Roblox chat open at all times. This is so that staff can contact you if needed using chat, and so that you see the messages of those who use Roblox chat instead of a microphone.
+• If you are ATC, you must have a microphone to be able to give clearances in the VC. You can't be ATC in ATC 24 if you don't have a microphone.
+• If you have excessive background noise, you will be given the Use Push to Talk role. You must set a key bind for push to talk to be able to speak.
+• All of the airport voice channels in this category represents the Tower, Approach, Departure, Ground, and Clearance Delivery of the given airspace (with the exception of Rockford and Perth, who have separate ground VC's). You must always remain in with the appropriate VC for the airspace you're in.
+• The coast guard boat is not allowed. 
+​
+Trolling:
+• The Wright Brothers Plane, along with aircraft/animals in the Random category (Excluding the Blimp and Paratrike) are not allowed.
+• Trolling or disrupting ATC 24 in any way is strictly prohibited. This includes (but is not limited to):
+    Ramming or colliding with other aircraft,
+    Intercepting any aircraft that you're not in an agreed formation with,
+    Moving your aircraft in a way not cleared by ATC (when there’s an ATC active),
+    Moving your aircraft without stating your intentions (when in uncontrolled airspace),
+    Moving your aircraft in a ridiculous way (like going inverted in an airliner),
+    Blocking frequency usage (i.e. earraping, playing music, arguing with other people, talking about irrelevant subjects, etc.),
+    Landing unrealistically large aircraft at small runways (such as an a320 at Saint Barthélemy, or a 747 at Grindavik),
+    Spamming chat. 
+​
+Being ATC:
+• If an airspace is uncontrolled, you can become ATC. If an airspace is already controlled, you can not take over.
+• As ATC, you must make a reasonable effort to fulfil all requests that aircraft may make, unless an aircraft makes an unreasonable request or performs in an unreasonable way.
+• Some airports have their own ground VCs. They have the following rules:
+    Ground should only be controlled if the tower for a particular airport allows it to be opened.
+    Ground must follow Tower instructions, for example if Tower opens a particular set of runways, ground should only taxi people to those runways.
+    There must be an active tower before ground is opened.
+    Tower can decide whether or not clearance delivery (Giving IFR clearances or VFR instructions) should be handled by ground, or tower.
+    Anything related to runways (e.g. crossing, lining up, landing, take-offs, etc.) are to be handled by tower. 
+​
+Aircraft:
+• Formation flights are not allowed unless the controller at the departing and arriving airport grants you clearance to do so.
+• Aircraft are not allowed to patrol non-military airspaces.
+• Non-military aircraft can not land at military bases. The only exception being during extreme emergencies.
+• No aircraft of any type can land at HMS Queen Elizabeth.
+• Don't intentionally ditch your aircraft into the water.
+• When filing a flight plan, you must stick to the format listed in atc-24-guide. Do not screenshot a filled in FAA flight form and send it in flight-plans. Flight plans must be for airports that exist in game. Don't use code-blocks either (```).
+• You must file a flight plan under the following circumstances (Flight plans can be sent in flight-plans):
+    IFR flight plans are required for any international flight (between different islands) regardless of aircraft category,
+    IFR flight plans are required for any Airliner/Cargo aircraft regardless of destination,
+    IFR flight plans are required for any Modern Military formation,
+    IFR or VFR flight plans are required for any other form of formation flying,
+    IFR or VFR flight plans are required for any Modern Military operation,
+    IFR or VFR flight plans are required if arriving or departing any international airport (e.g. Rockford, Larnaca, Izolirani, etc.),
+VFR flight plans are encouraged for any other flight operation (i.e. light aircraft doing a local flight) but are not required. 
+​
+Military aircraft:
+• Military aircraft are not to intercept any other aircraft under any circumstances. If an aircraft goes “rogue”, and violates the rules of ATC 24, report them instead of intercepting them.
+• It is not allowed to approach, land at, takeoff, depart from, or use HMS Queen Elizabeth in any way. This is due to the chaos that takes place at the carrier.
+• Air Force 1 flights are not allowed unless the controller at the departing and arriving airport grants you clearance to do so.
+• Military jets are only allowed at military bases (with the only exception being Air force 1 flights/formations, in which case, like mentioned above, you must contact the arriving and departing airports before-hand). Military aircraft which are not jets are still allowed at non-military bases (e.g. F4U Corsair or C-130 Hercules). 
+​
+Ground Crew:
+• All ground crew have to follow Tower/Ground instructions.
+• Baggage vehicles, busses, and air stairs have to remain on the ramp, and are to remain as reasonably close as possible to the terminal.
+• Follow me vehicles are only to be used if the ATC or Pilot requests it. They are to follow the taxi instructions given by the controller.
+• Unless an "emergency" refuelling is required, fuel trucks are also to remain close to the terminal and on the ramp.
+• Fire trucks and fuel trucks are only allowed to enter the taxiways in the event of an emergency.
+• If Ground permits fire trucks to do a water salute, they must remain on the ramp.
+
+Marshals:
+• Marshals are only to be present at gates or stands, near the marked end of the taxiway line for that gate/stand.
+• Marshals aren't to talk in the VC at all. Marshals can listen to the VC so they know who they're marshalling, but they do not need to speak in the VC itself. Marshals can still use in game chat.
+• The marshal tool isn't to be misused (i.e. purposefully using the wrong instructions or using the animations as emotes).
+• The marshal tool is not to be used if you are not a marshal.
+
+Misc. Information:
+• Ground charts of most airports can be found in atc-24-charts.
+• If the server is full, join the “Waiting to join server” VC instead of joining any airport’s VC.
+• If anyone is violating the rules of ATC 24, report them in atc-24-reports. When submitting a report, stick to the format. Do not ping Emergency Ping unless no other online moderator responds.
+
+Link: The link can be viewed in atc-24-link. If you can't view this channel, please view ❗❗why-are-channels-locked❗❗ for info on how to gain access.
+
+DO NOT PING EMERGENCY PING EVERY TIME A RULE IS BROKEN
+When someone breaks a rule of the session, report them by typing ?report in atc-24-reports.
+The only time you should ping Emergency Ping is if no moderator is available to respond to you. 

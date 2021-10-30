@@ -1,0 +1,29 @@
+Receiving flight plan clearances (as a pilot):
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+After you have submitted a flight plan, you need to ask tower for an IFR or VFR. Consider, for example, the following flight plan:
+
+Callsign: Shamrock 1512
+Aircraft: Airbus A330
+Flight rules: IFR
+Departing: Grindavik
+Arriving: Izolirani
+Flight Level: 050
+Squawk: N/A
+
+DO NOT THEN ASK TOWER FOR A SQUAWK CODE. This is incredibly annoying and improper. What you do instead is ask for VFR, or an IFR clearance, or whatever flight rules you have listed. When you have done that, tower will tell you "Advise ready to copy IFR". This lets you know that you need to be ready to write the clearance down somewhere. When you are ready to type or write the clearance, tell the tower "<callsign> ready to copy IFR". The tower will then give you an IFR clearance that you have to write down and read back to them. Consider for example the following IFR clearance:
+
+NOTE: A squawk code can not contain the numbers "8" or "9". Squawk codes such as "2485" are invalid since it contains the number "8".
+
+"Shamrock 1512 cleared IFR to Izolirani via GPS direct, Expect runway 24 for departure, Climb maintain 2000 feet, expect flight level 050 5 minutes after departure, Departure is with me, Squawk 6734."
+You need to be writing down this clearance in shorthand as the tower is giving it to you. I would write the above clearance like this.
+
+ifr direct izo
+rwy 24
+2000'
+050 5 mins
+dep with tower
+6734
+
+Then when reading back, just go top to bottom over what you have just written down. For example:
+"Cleared IFR to Izolirani via GPS direct, Expect runway 24, climb maintain 2000 feet, Expect 050 5 minutes after, departure frequency is with you, squawk 6734".
+You can use your own shorthand so long as you are able to use it to read everything back correctly to the tower. 

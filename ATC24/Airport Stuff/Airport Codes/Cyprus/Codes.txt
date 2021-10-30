@@ -1,0 +1,4 @@
+IBAR = Barra Airport
+IHEN = Henstridge Airfield
+ILAR = Larnaca International
+IPAP = Paphos International

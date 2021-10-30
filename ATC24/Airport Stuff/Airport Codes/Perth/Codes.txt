@@ -1,0 +1,2 @@
+ILKL = Lukla Airport
+IPPH = Perth International

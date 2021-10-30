@@ -1,0 +1,28 @@
+How to clear flight plans (as tower):
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+I've noticed a lot of towers giving "IFR clearances" by literally just reading out the flight plan and then ending the clearance with a squawk code. This is not how how IFR clearances work. Consider for example the following flight plan.
+
+Callsign: Shamrock 1512
+Aircraft: Airbus A330
+Flight Rules: IFR
+Departing: Grindavik
+Arriving: Izolirani
+Flight Level: 050
+
+Many ATC's will "clear" this ifr by saying something along the lines of the following:
+"You are Shamrock 1512, flying an Airbus A330, IFR, Departing Grindavik and Arriving Izolirani, with a flight level of 050, and your squawk code is... 6984. Yup you're cleared."
+There are many things wrong with this. The tower in this instance has failed to actually clear them of IFR. Tower failed to specify which runway the aircraft should depart from, failed to specify which altitude they should initially climb to, failed to specify a route (which can even just be "Direct to Izolirani" in this instance), failed to tell them who they contact for departure, and the squawk code is invalid (Any single digit in a squawk code can have a maximum value of 7; 8 and 9 can't exist in a squawk code). "Yup you're cleared" also isn't any sort of terminology what-so ever. 
+​
+A much better way to clear this flight plan is the following:
+"Shamrock 1512 cleared IFR to Izolirani via GPS direct, Expect runway 24 for departure, Climb maintain 2000 feet, expect flight level 050 5 minutes after departure, Departure is with me, Squawk 6734."
+or "Shamrock 1512 cleared IFR to Izolirani as filed, Expect runway 24 for departure, Climb maintain 2000 feet, expect flight level 050 5 minutes after departure, Departure is with me, Squawk 1357."
+The "As filed" allows the aircraft to travel using the route specified in their flight plan (if they have specified one). If not, you can give them a full route clearance, or tell them to fly "to <destination> via GPS direct". A "full route clearance" is where you tell the aircraft exactly which waypoints to use in their flight during their IFR clearence.
+
+NOTE: A squawk code can not contain the numbers "8" or "9". Squawk codes such as "2485" are invalid since it contains the number "8".
+
+A good way to remember this is with the acronym "CRAFT"
+C - Clearance Limit ("<callsign> Cleared IFR to <airport or clearance limit>"...)
+R - Route ("As filed" or "<waypoints or GPS direct>"...)
+A - Altitude ("Climb maintain <altitude>, expect <altitude> after <time>" or just "Climb maintain <altitude>"...)
+F - Frequency  ("Departure frequency is with me", or "Departure frequency is <frequency>"...)
+T - Transponder ("Squawk <valid 4 digit squawk code>"). 

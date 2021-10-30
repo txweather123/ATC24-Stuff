@@ -1,0 +1,17 @@
+Simple Radcom for ATC:
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+When you first contact you do a radio check "[Callsign], Radio check"
+Tower responds with "Loud and Clear" or "5 by 5" etc.. 5 by 5 is how loud and clear you are out of five i.e. reading you 1 by 5 means you are quiet but understandable. 
+
+Next you have a request "[Callsign], requesting taxi clearance to gate 5"
+The tower will respond with approved or stand by or disapproved "[Callsign], taxi to gate five via Charlie 1 Bravo"
+
+Finally the most important part, the read back, readbacks are important as you tell the ATC you know what you are doing and after that the next aircraft can contact tower for their request "taxi to gate five via Charlie 1 Bravo, [Callsign]"
+The callsign always comes last in a readback.
+The most annoying thing you can use for a read back is copy, roger, 10-4 ect. It is incorrect and informal.
+
+Now the next aircraft may make a request. 
+If told to stand by then no aircraft makes a request. 
+ATC can also contact an aircraft and tell them something, ask a question or tell them to make a move, i.e. hold position, if required.
+
+You only need a radio check when you first join frequency not every time you make a request.
